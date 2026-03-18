@@ -3,22 +3,22 @@
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
     
-# 👩🏻‍💻 Carlos César 
+# 👩🏻‍💻 Henrique Peixoto 
 
 **`FullStack Developer`**
 
 <p>
-  Hi 👋, I'm Carlos César! A passionate Computer Science student from Brazil.
+  Hi 👋, I'm Henrique Peixoto! A passionate student of Systems Analysis and Development from Brazil.
+  
+  - 🌱 I am currently studying Systems Analysis and Development at Tiradentes University (UNIT) 🎓
 
-  - 🌱 I’m currently studying Computer Science at Universidade Tiradentes (UNIT) 🎓
-
-  - 🔭 I am looking for my first job opportunity as a Junior Developer. My dream is to one day work with AI and Machine Learning.
+  - 🔭 I am looking for my first job opportunity as a Junior Developer. My goal is to become a Backend Developer and work with Java or Python.
 </p>
 
 <details>
-- 💬 I am 19 years old, currently living in Brazil. I’m a Full Stack Developer with experience in Java, C, JavaScript, Python, Node.js, and TypeScript. I work with both SQL Server and MySQL to build robust, scalable, and high-performance web systems.
+- 💬 I am 18 years old, currently living in Brazil. I am a Backend Developer with experience in Java and Python. I also have knowledge of Java, HTML, CSS, Dart, and Flutter. I work with databases like SQL Server and MySQL to build robust, scalable, and high-performance systems.
 
-- ⚙️ My technical toolkit includes **Git, GitHub, SQL, Data Analysis, and Machine Learning**. I enjoy tackling challenges, participating in collaborative projects, and staying up-to-date with software architecture and best practices.
+- ⚙️ My technical toolkit includes **Git, GitHub, SQL. I enjoy tackling challenges, participating in collaborative projects, and staying up-to-date with software architecture and best practices.
 
 - ⚡ I’m a curious and committed learner who enjoys reading (books, manga, and comics), watching movies, and gaming. I believe these interests refine my perception and problem-solving skills. \o/
 ---
@@ -26,13 +26,10 @@
 </details>
 
 <p align="center">
-  <a href="https://www.instagram.com/jnz.dev/">
+  <a href="https://www.instagram.com/_henrique._p/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://www.linkedin.com/in/jnzdev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:carlos.nepomuceno@souunit.com.br">
+  <a href="mailto:henriquepeixoto422@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>

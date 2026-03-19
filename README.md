@@ -38,17 +38,17 @@
   <table border="0">
     <tr>
       <td align="center">
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=jnzdev7&show_icons=true&theme=gotham&hide_border=true" />
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=henrique-080&show_icons=true&theme=gotham&hide_border=true" />
       </td>
       <td align="center">
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnzdev7&theme=gotham&layout=compact&custom_title=Technologiess&langs_count=9&hide_border=true" />
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-080&theme=gotham&layout=compact&custom_title=Technologiess&langs_count=9&hide_border=true" />
       </td>
     </tr>
   </table>
 
   <p align="center">
     <br>
-    <img src="15a4dbb6ee1446e1c3b57c6777beec3e.gif" width="800">
+    <img src="https://media1.tenor.com/m/eOWRchX2L8IAAAAC/homework-work.gif" width="800">
   </p>
 </div>
 
